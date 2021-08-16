@@ -1,4 +1,11 @@
 ---
 label: blog post
 hide_body: false
-fields: []
+fields:
+- name: blog
+  type: include
+  config: {}
+  template: blog-post
+  label: blog
+  hidden: true
+  description: Media Informasi online
