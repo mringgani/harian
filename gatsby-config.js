@@ -7,15 +7,15 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Dendense`,
+    title: `Gak Jelas`,
     author: {
-      name: `Deny Farras Febriyanto`,
-      summary: `Creating & Develop Something.`,
+      name: `HariAsia`,
+      summary: `Media Informasi Online.`,
     },
-    description: `Tech & Multimedia, Expand Your Skills Experience!`,
-    siteUrl: `https://himitsupro.com`,
+    description: `Media Informasi Online`,
+    siteUrl: `https://gakjelas.netlify.app/`,
     social: {
-      instagram: `deny_desu`,
+      instagram: `-`,
     },
   },
   /* Put Your Plugins Here */
@@ -47,13 +47,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: Put your tracking ID here `UA-74413199-2`,
+        //trackingId: Put your tracking ID here `---`,
       },
     },
     {
       resolve: `gatsby-plugin-disqus`,
       options: {
-        shortname: `dendense-github`,
+        shortname: `---`,
       },
     },
     {
