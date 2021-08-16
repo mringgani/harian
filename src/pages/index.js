@@ -9,7 +9,7 @@ import Jumbotron from "../components/Jumbotron"
 export default function Home({ data }) {
   return (
     <Layout>
-      <SEO title="Welcome to my blog" />
+      <SEO title="Media Informasi Online" />
       <Jumbotron
         headline="Gak Jelas"
         punchline="Media Informasi Online"
