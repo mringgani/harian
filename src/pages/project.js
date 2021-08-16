@@ -12,7 +12,7 @@ export default function Project({ data }) {
       <SEO title="My Project" />
       <Jumbotron
         headline="My Project"
-        punchline="Learn Everything &amp; Expand Your Skills."
+        punchline="Project Gak Jelas."
       />
       <div style={{ marginLeft: "1rem", marginRight: "1rem" }}>
         <h4>Project List</h4>
