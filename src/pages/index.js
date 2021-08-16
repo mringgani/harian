@@ -11,8 +11,8 @@ export default function Home({ data }) {
     <Layout>
       <SEO title="Welcome to my blog" />
       <Jumbotron
-        headline="DensLAB"
-        punchline="Learn Everything &amp; Expand Your Skills."
+        headline="Gak Jelas"
+        punchline="Media Informasi Online"
       />
       <div style={{ marginLeft: "1rem", marginRight: "1rem" }}>
         <h4>Latest Posts</h4>
