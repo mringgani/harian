@@ -9,3 +9,12 @@ fields:
   label: blog
   hidden: true
   description: Media Informasi online
+- name: Tes_Posting
+  type: datetime
+  label: Test Posting
+  description: Tes Coba
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
