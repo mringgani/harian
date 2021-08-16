@@ -51,20 +51,20 @@ const Sidebar = () => (
           <a
             type="link"
             className="container-fluid btn btn-info text-white"
-            href="https://trakteer.id/dendense-project"
+            href="https://nnh.neocities.org/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/index.html"
             target="_blank"
             rel="noreferrer noopener"
           >
-            <i className="fa fa-heart" /> Support Us on Trakteer!
+            <i className="fa fa-heart" /> Zombie Beraksi
           </a>
           <a
             type="link"
             className="container-fluid btn btn-warning mt-2"
-            href="https://forms.gle/EJWqRyfLTUTV58Dp9"
+            href="https://banter.co.vu/"
             target="_blank"
             rel="noreferrer noopener"
           >
-            <i class="fa fa-flag" /> Report Error Links
+            <i class="fa fa-flag" /> Banter
           </a>
         </div>
       </div>
