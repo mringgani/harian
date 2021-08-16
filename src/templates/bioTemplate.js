@@ -28,7 +28,7 @@ export default function bioTemplate({ data }) {
               <div className="card mb-3">
                 <div className="row no-gutters">
                   <div className="col-md-4">
-                    <img src={image} className="card-img" alt="DENDENSE" />
+                    <img src={image} className="card-img" alt="Gak Jelas" />
                   </div>
                   <div className="col-md-8">
                     <div className="card-body">
