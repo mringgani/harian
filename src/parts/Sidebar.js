@@ -66,6 +66,15 @@ const Sidebar = () => (
           >
             <i class="fa fa-flag" /> Banter
           </a>
+          <a
+            type="link"
+            className="container-fluid btn btn-warning mt-3"
+            href="https://mringgani.vercel.app/"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            <i class="fa fa-flag" /> Mringgani
+          </a>
         </div>
       </div>
     </div>
