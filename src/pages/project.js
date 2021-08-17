@@ -11,7 +11,7 @@ export default function Project({ data }) {
     <Layout>
       <SEO title="Blog" />
       <Jumbotron
-        headline="My Blog"
+        headline="Blog Saya"
         punchline="Blog Gak Jelas."
       />
       <div style={{ marginLeft: "1rem", marginRight: "1rem" }}>
