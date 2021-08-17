@@ -18,7 +18,7 @@ const Navigation = props => (
         <Link
           className="nav-link"
           activeClassName="nav-link active"
-          to="/project"
+          to="/blog"
         >
           Project
         </Link>
