@@ -9,13 +9,13 @@ import Jumbotron from "../components/Jumbotron"
 export default function Project({ data }) {
   return (
     <Layout>
-      <SEO title="My Project" />
+      <SEO title="Blog" />
       <Jumbotron
-        headline="My Project"
-        punchline="Project Gak Jelas."
+        headline="My Blog"
+        punchline="Blog Gak Jelas."
       />
       <div style={{ marginLeft: "1rem", marginRight: "1rem" }}>
-        <h4>Project List</h4>
+        <h4>Blog List</h4>
         <PostsCard data={data.allMarkdownRemark.nodes} col={4} />
       </div>
     </Layout>
