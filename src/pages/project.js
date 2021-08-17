@@ -23,7 +23,7 @@ export default function Project({ data }) {
 }
 
 export const IndexQuery = graphql`
-  query Blog {
+  query project {
     allMarkdownRemark(
       sort: { order: DESC, fields: frontmatter___date }
       filter: { frontmatter: { type: { eq: "project" } } }
