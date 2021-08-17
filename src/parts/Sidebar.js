@@ -68,7 +68,7 @@ const Sidebar = () => (
           </a>
           <a
             type="link"
-            className="container-fluid btn btn-warning mt-3"
+            className="container-fluid btn btn-info text-white"
             href="https://mringgani.vercel.app/"
             target="_blank"
             rel="noreferrer noopener"
