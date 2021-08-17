@@ -20,7 +20,7 @@ const Navigation = props => (
           activeClassName="nav-link active"
           to="/blog"
         >
-          Project
+          Blog
         </Link>
       </Nav>
     </Navbar.Collapse>
