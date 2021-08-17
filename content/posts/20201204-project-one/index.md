@@ -1,6 +1,6 @@
 ---
-type: project
-path: /project/project-one
+type: blog
+path: /blog/project-one
 title: Buat Blog Gatsby
 author: Zombie Beraksi
 date: 2021-08-17T14:40:55.870Z
