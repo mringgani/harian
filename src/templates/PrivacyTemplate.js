@@ -74,7 +74,7 @@ export default function bioTemplate({ data }) {
 }
 
 export const bioQuery = graphql`
-  query PrivacyPolicy($type: String = "PrivacyPolicy") {
+  query Privacy($type: String = "Privacy") {
     markdownRemark(frontmatter: { type: { eq: $type } }) {
       frontmatter {
         title
