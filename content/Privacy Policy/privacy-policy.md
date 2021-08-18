@@ -1,5 +1,5 @@
 ---
-type: PrivacyPolicy
+type: Privacy
 path: /privacy-policy
 title: Privacy Policy
 image: https://i.ibb.co/ZNJrDgW/Privacy-Policy.jpg #Square Image Privacy Policy
