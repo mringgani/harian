@@ -11,7 +11,7 @@ export default function Home({ data }) {
     <Layout>
       <SEO title="Media Informasi Online" />
       <Jumbotron
-        headline="Gak Jelas"
+        headline="Blogger Palembang"
         punchline="Media Informasi Online"
       />
       <div style={{ marginLeft: "1rem", marginRight: "1rem" }}>
