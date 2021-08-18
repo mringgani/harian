@@ -14,7 +14,7 @@ export default function postTemplate({ data }) {
 
   //Set your public url after published into production build
   const disqusConfig = {
-    url: `https://gakjelas.netlify.app${path}`,
+    url: `https://bloggerpalembang.my.id${path}`,
     title: title,
     identifier: path.split("/").slice(-1)[0],
   }
