@@ -7,13 +7,13 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Gak Jelas`,
+    title: `Blogger Palembang`,
     author: {
-      name: `HariAsia`,
+      name: `Blogger Palembang`,
       summary: `Media Informasi Online.`,
     },
     description: `Media Informasi Online`,
-    siteUrl: `https://gakjelas.netlify.app/`,
+    siteUrl: `https://bloggerpalembang.my.id`,
     social: {
       instagram: `-`,
     },
