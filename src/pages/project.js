@@ -11,8 +11,8 @@ export default function Project({ data }) {
     <Layout>
       <SEO title="Blog" />
       <Jumbotron
-        headline="Blog Saya"
-        punchline="Blog Gak Jelas."
+        headline="Blog"
+        punchline="Blogger Palembang"
       />
       <div style={{ marginLeft: "1rem", marginRight: "1rem" }}>
         <h4>Blog List</h4>
