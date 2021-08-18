@@ -6,7 +6,7 @@ author: Blogger Palembang
 date: 2021-08-01T14:40:55.870Z
 description: Gatsby
 tags:
-  - Privacy Policy
+  - PrivacyPolicy
 image: https://i.ibb.co/ZNJrDgW/Privacy-Policy.jpg
 ---
 
