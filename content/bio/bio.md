@@ -5,7 +5,7 @@ title: Tentang
 image: https://i.ibb.co/2gmbsT2/IMG-0153.jpg #Square Image Profile
 fullname: Blogger Palembang
 email: hariatn07@gmail.com
-websitename: Zombie Beraksi
+websitename: Blogger Palembang
 website: https://bloggerpalembang.my.id
 ---
 
