@@ -10,7 +10,7 @@ const Layout = ({ children }) => (
     className="dendense-font"
     style={{ minHeight: "100vh", position: "relative" }}
   >
-    <Nav brand="Gak Jelas" />
+    <Nav brand="Blogger Palembang" />
     <div className="container-fluid" style={{ padding: "1rem" }}>
       {children}
     </div>
