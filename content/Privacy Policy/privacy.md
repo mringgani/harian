@@ -1,6 +1,6 @@
 ---
 type: Privacy
-path: /privacy-policy
+path: /privacy
 title: Privacy Policy
 image: https://i.ibb.co/ZNJrDgW/Privacy-Policy.jpg #Square Image Privacy Policy
 fullname: Blogger Palembang
