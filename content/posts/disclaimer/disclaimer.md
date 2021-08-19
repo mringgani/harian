@@ -4,7 +4,7 @@ path: /project/disclaimer
 title: Disclaimer
 author: Blogger Palembang
 date: 2021-08-02T14:40:55.870Z
-description: Disclaimer
+description: All the information on this website - https://bloggerpalembang.my.id - is published in good faith and for general information purpose only. Blogger Palembang does not make any warranties about the completeness, reliability and accuracy of this information.
 tags:
   - Disclaimer
 image: https://i.ibb.co/BPJ8csx/Disclaimer.jpg
