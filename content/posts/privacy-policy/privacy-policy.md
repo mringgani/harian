@@ -4,7 +4,7 @@ path: /project/privacy-policy
 title: Privacy Policy
 author: Blogger Palembang
 date: 2021-08-01T14:40:55.870Z
-description: Privacy Policy
+description: At Blogger Palembang, accessible from https://bloggerpalembang.my.id, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Blogger Palembang and how we use it.
 tags:
   - PrivacyPolicy
 image: https://i.ibb.co/ZNJrDgW/Privacy-Policy.jpg
