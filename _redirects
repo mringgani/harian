@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://gakjelas.netlify.app/* https://bloggerpalembang.my.id/:splat 301!
