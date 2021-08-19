@@ -4,7 +4,7 @@ path: /project/terms-and-conditions
 title: Terms and Conditions
 author: Blogger Palembang
 date: 2021-08-03T14:40:55.870Z
-description: Gatsby
+description: These terms and conditions outline the rules and regulations for the use of Blogger Palembang's Website, located at https://bloggerpalembang.my.id.
 tags:
   - TermsandConditions
 image: https://i.ibb.co/fNKWbBF/Terms-and-Conditions.jpg
