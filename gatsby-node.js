@@ -6,7 +6,6 @@ exports.createPages = async ({ actions, graphql }) => {
   const postTemplate = path.resolve("src/templates/postTemplate.js")
   const bioTemplate = path.resolve("src/templates/bioTemplate.js")
   const tagTemplate = path.resolve("src/templates/tagTemplate.js")
-  const docs = path.resolve("docs/index.html")
 
   var data_graphql = await graphql(`
     query BoilerplateNetlifyCMS {
