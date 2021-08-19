@@ -1,2 +1,0 @@
-# Redirect old subdomain to new one
-https://gakjelas.netlify.app/* https://bloggerpalembang.my.id/:splat 301!
