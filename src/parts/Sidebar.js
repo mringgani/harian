@@ -45,35 +45,35 @@ const Sidebar = () => (
     </div>
     {/* Division */}
     <div>
-      <h3>Support Us</h3>
+      <h3>Menu</h3>
       <div className="card bg-light" style={{ marginBottom: "1rem" }}>
         <div className="card-body">
           <a
             type="link"
             className="container-fluid btn btn-info text-white"
-            href="https://nnh.neocities.org/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/index.html"
+            href="https://bloggerpalembang.my.id/project/privacy-policy"
             target="_blank"
             rel="noreferrer noopener"
           >
-            <i className="fa fa-heart" /> Zombie Beraksi
+            <i className="fa fa-heart" /> Privacy Policy
           </a>
           <a
             type="link"
             className="container-fluid btn btn-warning mt-2"
-            href="https://banter.co.vu/"
+            href="https://bloggerpalembang.my.id/project/disclaimer"
             target="_blank"
             rel="noreferrer noopener"
           >
-            <i class="fa fa-flag" /> Banter
+            <i class="fa fa-flag" /> Disclaimer
           </a>
           <a
             type="link"
             className="container-fluid btn btn-info text-white"
-            href="https://mringgani.vercel.app/"
+            href="https://bloggerpalembang.my.id/project/terms-and-conditions"
             target="_blank"
             rel="noreferrer noopener"
           >
-            <i class="fa fa-flag" /> Mringgani
+            <i class="fa fa-flag" /> Terms and Conditions
           </a>
         </div>
       </div>
