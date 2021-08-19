@@ -1,6 +1,2 @@
-$ curl -svo /dev/null https://gakjelas.netlify.app/  2>&1 | egrep -i "< (HTTP|location)"
-< HTTP/1.1 301 Moved Permanently
-< Location: https://emtr0.dev/
-$ curl -svo /dev/null https://gakjelas.netlify.app/  2>&1 | egrep "< (HTTP|location)"
-< HTTP/2 301
-< location: https://bloggerpalembang.my.id/
+# Redirect old subdomain to new one
+https://gakjelas.netlify.app/* https://bloggerpalembang.my.id/:splat 301!
