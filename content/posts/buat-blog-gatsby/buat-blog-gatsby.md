@@ -6,7 +6,7 @@ author: Blogger Palembang
 date: 2021-08-17T14:40:55.870Z
 description: Edit sana, edit sini, bongkar sana, bongkar sini, akhirnya bisa online juga blog Gak Jelas dengan mesin gatsbyjs.
 tags:
-  - artikel
+  - Artikel
 image: https://i.ibb.co/q0Jhc9y/Buat-Blog-Gatsby.png
 ---
 
