@@ -4,7 +4,7 @@ path: /blog/game-battle-royale-fortnite-bermasalah
 title: Game Battle Royale Fortnite Bermasalah
 author: Blogger Palembang
 date: 2021-08-04T07:17:26.066Z
-description: Game merupakan media hiburan yang disukai banyak orang, baik anak muda sampai orang tua. Salah satu game yang sedan tenar saat ini yaitu Game battle royale Fortnite yang dibuat oleh Epic Games.
+description: Game merupakan media hiburan yang disukai banyak orang, baik anak muda sampai orang tua. Salah satu game yang sedang tenar saat ini yaitu Game battle royale Fortnite yang dibuat oleh Epic Games.
 tags:
   - Game
   - Teknologi
@@ -13,7 +13,7 @@ image: https://i.ibb.co/yQfgFs4/Game-Battle-Royale-Fortnite-Bermasalah.png
 
 # Game Battle Royale Fortnite Bermasalah
 
-Game merupakan media hiburan yang disukai banyak orang, baik anak muda sampai orang tua. Salah satu game yang sedan tenar saat ini yaitu Game battle royale Fortnite yang dibuat oleh Epic Games. 
+Game merupakan media hiburan yang disukai banyak orang, baik anak muda sampai orang tua. Salah satu game yang sedang tenar saat ini yaitu Game battle royale Fortnite yang dibuat oleh Epic Games. 
 
 Dalam permainan game tersebut, pemain diharuskan untuk menghancurkan subuah bangunan yang mirip dengan kabah. Hal ini dipantau oleh Menteri Pariwisata dan Ekonomi Kreatif (Menparekraf) Republik Indonesia yaitu Sandiaga Salahuddin Uno.
 
