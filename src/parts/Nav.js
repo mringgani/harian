@@ -22,6 +22,27 @@ const Navigation = props => (
         >
           Blog
         </Link>
+        <Link
+          className="nav-link"
+          activeClassName="nav-link active"
+          to="/project/privacy-policy"
+        >
+          Privacy Policy
+        </Link>
+        <Link
+          className="nav-link"
+          activeClassName="nav-link active"
+          to="/project/disclaimer"
+        >
+          Disclaimer
+        </Link>
+        <Link
+          className="nav-link"
+          activeClassName="nav-link active"
+          to="/project/terms-and-conditions"
+        >
+          Terms and Conditions
+        </Link>
       </Nav>
     </Navbar.Collapse>
   </Navbar>
