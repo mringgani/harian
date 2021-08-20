@@ -75,6 +75,42 @@ const Sidebar = () => (
           >
             <i class="fa fa-flag" /> Terms and Conditions
           </a>
+          <a
+            type="link"
+            className="container-fluid btn btn-warning mt-2"
+            href="https://bloggerpalembang.my.id/tag/teknologi"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            <i class="fa fa-flag" /> Teknologi
+          </a>
+          <a
+            type="link"
+            className="container-fluid btn btn-info text-white"
+            href="https://bloggerpalembang.my.id/tag/handphone"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            <i class="fa fa-flag" /> Handphone
+          </a>
+          <a
+            type="link"
+            className="container-fluid btn btn-warning mt-2"
+            href="https://bloggerpalembang.my.id/tag/game"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            <i class="fa fa-flag" /> Game
+          </a>
+          <a
+            type="link"
+            className="container-fluid btn btn-info text-white"
+            href="https://bloggerpalembang.my.id/tag/artikel"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            <i class="fa fa-flag" /> Artikel
+          </a>
         </div>
       </div>
     </div>
