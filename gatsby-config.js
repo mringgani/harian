@@ -53,7 +53,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-disqus`,
       options: {
-        shortname: `---`,
+        shortname: `https://https-harian-netlify-app`,
       },
     },
     {
